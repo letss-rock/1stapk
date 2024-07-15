@@ -47,7 +47,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     TestApplicationTheme {
-        Greeting("Mohit 🙃 ")
+        Greeting("Android ")
 
     }
 }
